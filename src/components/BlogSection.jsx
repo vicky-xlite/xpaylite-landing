@@ -291,7 +291,8 @@ function BlogSection() {
                                         },
                                     }}
                                 >
-                                    Load More
+                                    Load more
+
                                 </Button>
                             </Box>
                         )}
