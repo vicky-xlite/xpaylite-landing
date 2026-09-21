@@ -1,0 +1,23 @@
+.testimonial-swiper .swiper-pagination {
+  margin-top: 35px;
+  position: relative;
+}
+/* Default dot */
+.testimonial-swiper .swiper-pagination-bullet {
+  width: 10px;
+  height: 10px;
+  /* overflow: visible; */
+  background: #cbd5f5; /* light blue */
+  opacity: 1;
+  /* transform: translateY(20px); */
+  margin: 0px 6px !important;
+  border-radius: 50%;
+  transition: all 0.3s ease;
+}
+
+/* Active dot */
+.testimonial-swiper .swiper-pagination-bullet-active {
+  /* width: 24px; */
+  border-radius: 20px;
+  background: linear-gradient(90deg, #3b82f6, #1e3a8a);
+}
