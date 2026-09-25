@@ -63,9 +63,8 @@ const ContactInfo = () => {
             <Box sx={{ display: 'flex', alignItems: 'flex-start', gap: 1 }}>
                 <LocationOnIcon sx={{ color: "#ffffff", fontSize: 20 }} />
                 <Box sx={contactTextStyles}>
-                    Ward No.06, Partapur,<br />
-                    Kunda, Meerut, Meerut,<br />
-                    Uttar Pradesh (250103)
+                    A-14, First Floor,<br />
+                     Major Dhyanchand Nagar,<br /> Meerut, Uttar Pradesh -<br />  250002
                 </Box>
             </Box>
 

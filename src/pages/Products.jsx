@@ -304,7 +304,7 @@ export default function Products({ comingFrom, title, subtitle }) {
                             </Typography>
                             <Typography sx={{ mb: 2, color: "#555", lineHeight: 1.8 }}>
                                 <p><strong>Phone:</strong>  +91 9762357400</p>
-                                <p><strong>Address:</strong> Mudramarvel Pvt Ltd. Ward No.06, Partapur, Partapur, Kunda, Meerut, Meerut, Uttar Pradesh (250103)</p>
+                                <p><strong>Address:</strong> A-14, First Floor, Major Dhyanchand Nagar, Meerut, Uttar Pradesh - 250002</p>
                                 <p>You may contact us to:</p>
                                 <ul style={{ marginTop: 0, marginBottom: '16px', paddingLeft: '20px' }}>
                                     <li>Inquire about how your personal data is being processed</li>

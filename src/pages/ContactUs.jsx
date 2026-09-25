@@ -10,9 +10,7 @@ const contactData = [
     title: "Location",
     icon: <LocationOnIcon sx={{ fontSize: 40, color: "#ff5722" }} />,
     content: [
-      "Ward No.06, Partapur, Partapur,",
-      "Kunda, Meerut, Meerut,",
-      "Uttar Pradesh (250103)"
+      "A-14, First Floor, Major Dhyanchand Nagar, Meerut, Uttar Pradesh - 250002"
     ],
   },
   {
