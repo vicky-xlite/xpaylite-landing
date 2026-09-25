@@ -317,7 +317,8 @@ export default function Products({ comingFrom, title, subtitle }) {
                                 <p><strong>Grievance Officer</strong></p>
                                 <p>Name: Mr. Amit Sharma<br />
                                     Designation: Head – Operations<br />
-                                    Email: amit@xpaylite.com</p>
+                                    Email: amit.sharma@xpaylite.com<br />
+                                    Address : A-14, First Floor, Major Dhyanchand Nagar, Meerut, Uttar Pradesh - 250002</p>
                             </Typography>
 
                             <Typography sx={{ fontSize: "18px", fontWeight: 600, mt: 3, mb: 1, color: "#1e3a8a" }}>
